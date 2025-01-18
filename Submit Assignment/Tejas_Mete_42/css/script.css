@@ -38,7 +38,7 @@ body {
 }
 
 
-.recttop1 {
+.recttop {
     position: absolute;
     top: -20mm;
     left: -3mm;
@@ -64,7 +64,7 @@ body {
     height: auto;
 }
 
-.comapany-name {
+.org-name {
     font-size: 3mm;
     font-weight: bold;
     text-align: center;
@@ -154,7 +154,7 @@ body {
     left: 28pt; /* 56px */
 }
 
-.recttop3 {
+.rectbtmright {
     position: absolute;
     left: -12mm;
     top: 80mm;
@@ -165,7 +165,7 @@ body {
    border-radius: 2mm;
    rotate: 90deg;
 }
-.recttop4 {
+.rectbtmleft {
     position: absolute;
     right: -12mm;
     top: 80mm;
@@ -219,7 +219,7 @@ body {
     height: auto;
 }
 
-.comapany-name2 {
+.org-name2 {
     font-size: 3mm;
     font-weight: bold;
     text-align: center;
@@ -272,7 +272,7 @@ body {
     top: 83mm;
     color: black;
 }
-.recttop2 {
+.rect-top {
     position: absolute;
     top: -100mm;
     left: -52mm;
@@ -285,7 +285,7 @@ body {
     z-index: 0;
   }
 
-  .recttop5 {
+  .rect-btm-right {
     position: absolute;
     left: -12mm;
     top: 75mm;
@@ -296,7 +296,7 @@ body {
    border-radius: 2mm;
    rotate: 90deg;
 }
-.recttop6 {
+.rect-btm-left {
     position: absolute;
     right: -12mm;
     top: 75mm;
